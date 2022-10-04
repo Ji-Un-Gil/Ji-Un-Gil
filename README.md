@@ -4,8 +4,6 @@
 <h1 align="center"><b>🛠 Tech Stack 🛠</b></h1>
 <h3 align="center">📚 Platform & Languages 📚</h3>
 <p align="center">Techs that I've used at least once</p>
-</br>
-
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
@@ -17,10 +15,9 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"></a> &nbsp
-</p>
+</p><br/>
 
 <h3 align="center"><b>🏫 Learning 🏫</b></h3>
-</br>
 <p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white"></a> &nbsp
@@ -28,8 +25,9 @@
 <img src="https://img.shields.io/badge/Apache-D22128?style=plastic&logo=Apache&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/php-777BB4?style=plastic&logo=PHP&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"></a> &nbsp
-</p>
+</p><br/><br/>
 
+<h1 align="center"><b>😎 This is me! 😎</b></h1>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ji-Un-Gil)](https://github.com/Ji-Un-Gil/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ji-Un-Gil&show_icons=true&theme=codeSTACKr)
