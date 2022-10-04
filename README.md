@@ -28,6 +28,7 @@
 </p><br/><br/>
 
 <h1 align="center"><b>😎 This is me! 😎</b></h1>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ji-Un-Gil)](https://github.com/Ji-Un-Gil/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ji-Un-Gil&show_icons=true&theme=codeSTACKr)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ji-Un-Gil&langs_count=8"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ji-Un-Gil&show_icons=true&theme=codeSTACKr"/>
+</p>
