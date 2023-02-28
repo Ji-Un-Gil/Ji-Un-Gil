@@ -31,6 +31,6 @@
 
 <h1 align="center"><b>😎 This is me! 😎</b></h1>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ji-Un-Gil&langs_count=8"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Ji-Un-Gil&show_icons=true&theme=codeSTACKr"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ji-Un-Gil&langs_count=8"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ji-Un-Gil&show_icons=true&theme=codeSTACKr"/>
 </p>
