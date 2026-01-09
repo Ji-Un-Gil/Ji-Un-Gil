@@ -63,5 +63,5 @@
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ji-Un-Gil&langs_count=8"/>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ji-Un-Gil&show_icons=true&theme=codeSTACKr"/><br/>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ji-Un-Gil&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ji-Un-Gil&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a>
 </p>
