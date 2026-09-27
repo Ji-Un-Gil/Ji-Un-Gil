@@ -61,7 +61,7 @@
 
 <h1 align="center"><b>😎 This is me! 😎</b></h1>
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ji-Un-Gil&langs_count=8"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ji-Un-Gil&show_icons=true&theme=codeSTACKr"/><br/>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=Ji-Un-Gil" alt="GitHub Streak" /></a>
+<img src="https://github-stats-extended.vercel.app/api?username=Ji-Un-Gil&show_icons=true&include_all_commits=true&theme=moltack"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Ji-Un-Gil&layout=compact&langs_count=4&theme=moltack"/><br/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ji-Un-Gil" alt="GitHub Streak" /></a>
 </p>
